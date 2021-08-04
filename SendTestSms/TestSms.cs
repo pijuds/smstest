@@ -78,7 +78,7 @@ namespace SendTestSms
 
         }
 
-        public void SMSSEND_V3()
+        public void SMSSEND_V5()
         {
             try
             {

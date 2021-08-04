@@ -26,7 +26,7 @@ namespace SendTestSms
 
                 case "TESTSMS":
                     TestSms ms = new TestSms();
-                    ms.SMSSEND_V3();
+                    ms.SMSSEND_V5();
                     break;
             }
         }
