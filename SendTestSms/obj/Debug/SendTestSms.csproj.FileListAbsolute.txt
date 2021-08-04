@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.exe
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.exe
+c:\users\acer\documents\visual studio 2015\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.pdb
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.exe.config
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.exe
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.pdb
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.exe
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\bin\Debug\SendTestSms.pdb
+C:\Users\Acer\OneDrive\Projects\SendTestSms\SendTestSms\obj\Debug\SendTestSms.csprojResolveAssemblyReference.cache
